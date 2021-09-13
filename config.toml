@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Harvard University"
-  orgLocal = "Anywhere"
+  orgName = "Graham Noblit"
+  orgLocal = "Cambridge, MA"
   description = "Cultural evolution and minds"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"

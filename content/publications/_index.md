@@ -3,19 +3,19 @@ title: Publications
 description: "Recent publications and working papers."
 author: "Graham Noblit"
 show_post_thumbnail: true
-show_author_byline: true
+show_author_byline: false
 show_post_date: false
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
-  description: |
+  title: 
+  description: 
     Projects can be anything!
     Check out the _index.md file in the /project folder 
     to edit this content.
-  author: "The R Markdown Team @RStudio"
+  author: "Graham Noblit"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
