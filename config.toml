@@ -29,11 +29,11 @@ enableEmoji = true
     
 [params]
   orgName = "Graham Noblit"
-  orgLocal = "Cambridge, MA"
-  description = "Cultural evolution and minds"
+  orgLocal = "Toronto, ON"
+  description = "Cultural Evolution, Institutions, and Minds"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "publications", "CV"]
+  mainSections = ["blog", "publications", "CV", "Pottery"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "graham_noblit"
+  #twitter = "graham_noblit"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -97,10 +97,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://linkedin.com/in/graham-noblit"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/graham_noblit"
+  #[[params.social]]
+  #    icon      = "twitter" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://twitter.com/hashtag/graham_noblit"
   #[[params.social]]
   #    icon      = "impactstory" # icon name without the 'fa-'
   #    icon_pack = "ai"
@@ -151,6 +151,16 @@ enableEmoji = true
     title = "CV"
     url = "/cv/cv.pdf"
     weight = 5
+  [[menu.header]]
+  name = "Resume"
+  title = "Resume"
+  url = "/resume/Graham Noblit Resume.pdf"
+  weight = 6
+  [[menu.header]]
+  name = "Pottery"
+  title = "Pottery"
+  url = "/pottery/"
+  weight = 7
   #[[menu.header]]
   #  name = "Elements"
   #  title = "Element Page"
