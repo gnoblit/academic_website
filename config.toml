@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  #twitter = "graham_noblit"
+  twitter = "graham_noblit"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -152,15 +152,15 @@ enableEmoji = true
     url = "/cv/cv.pdf"
     weight = 5
   [[menu.header]]
-  name = "Resume"
-  title = "Resume"
-  url = "/resume/resume.pdf"
-  weight = 6
+    name = "Resume"
+    title = "Resume"
+    url = "/resume/resume.pdf"
+    weight = 6
   [[menu.header]]
-  name = "Pottery"
-  title = "Pottery"
-  url = "/pottery/"
-  weight = 7
+    name = "Pottery"
+    title = "Pottery"
+    url = "/pottery/"
+    weight = 7
   #[[menu.header]]
   #  name = "Elements"
   #  title = "Element Page"
