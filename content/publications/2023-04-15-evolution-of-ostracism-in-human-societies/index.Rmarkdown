@@ -1,8 +1,11 @@
 ---
 title: Evolution of Ostracism in Human Societies
-author: ''
+authors: ["Graham Alexander Noblit", "Joseph Henrich"]
 date: '2023-04-15'
+abstract: "Understanding how humans successfully stabilize public good contributions is a major ongoing question in the social and behavioral sciences. The use of targeted sanctions against defecting strategies is an important solution to this problem. However, ethnographic and behavioral evidence suggest that punishment is sometimes not used against defectors to stabilize cooperation. Sanctions instead are either light and insufficient to coerce cooperation or take the form of verbal repudiations, urging defectors to reform their behavior. Should defectors not reform, they are then ostracized from groups. We construct a cultural evolutionary game-theoretic model to study the evolution of ostracizing strategies in public goods games. We demonstrate that simple ostracizing strategies are unlikely to be evolutionarily viable and can neither encourage the evolution of contrite-defectors, who respond to punishment with cooperation, nor can invade recalcitrant-defecting populations, which ignore punishment. Motivated by the ethnographic literature, we then consider a hybrid sanctioning-ostracizing strategy that lightly-sanctions defectors before ostracizing repeat defectors. Such a strategy demonstrates clear advantages over simple sanctioning strategies. It can afford to impose light-sanctions when common because these sanctions are irrelevant when coercing future cooperation from defectors. More so, when recalcitrant defecting strategies have some possibility of arising in a population, sanctioning-ostracizing strategies dominate pure sanctioning ones, stabilizing cooperation with greater efficiency. Finally, our model makes psychological predictions concerning the reasoning processes that defectors will go through when defectors are coerced to cooperate by the threat of ostracism as opposed to sanctioning.""
+url_pdf:"static/publications/2023_04_14 Ostracism OG.pdf"
 slug: []
 categories: []
 tags: []
+draft: no
 ---
