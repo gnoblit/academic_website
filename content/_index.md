@@ -11,7 +11,7 @@ show_action_link: false
 show_social_links: true
 subtitle: CULTURAL EVOLUTION, INSTITUTIONS, AND MINDS
 text_align_left: true
-title: Graham Noblit
+title: Graham Alexander Noblit, Ph.D.
 type: home
 ---
 
