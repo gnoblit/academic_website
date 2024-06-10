@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Graham Noblit"
-  orgLocal = "Toronto, ON"
+  orgLocal = "Los Angeles, CA"
   description = "Cultural Evolution, Institutions, and Minds"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"

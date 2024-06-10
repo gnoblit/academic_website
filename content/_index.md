@@ -9,7 +9,7 @@ images:
 - img/profile.png
 show_action_link: false
 show_social_links: true
-subtitle: CULTURAL EVOLUTION, INSTITUTIONS, AND MINDS
+subtitle: CULTURAL EVOLUTION, ARTIFICIAL INTELLIGENCE, and MINDS
 text_align_left: true
 title: Graham Alexander Noblit, Ph.D.
 type: home
