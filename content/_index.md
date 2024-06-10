@@ -11,7 +11,7 @@ show_action_link: false
 show_social_links: true
 subtitle: CULTURAL EVOLUTION, ARTIFICIAL INTELLIGENCE, and MINDS
 text_align_left: true
-title: Graham Alexander Noblit, Ph.D.
+title: Graham Noblit, Ph.D.
 type: home
 ---
 
